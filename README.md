@@ -95,7 +95,7 @@ An AI-powered student intelligence and safety ecosystem designed for schools and
 
 - GitHub: https://github.com/devpratap4149
 - LinkedIn: https://www.linkedin.com/in/dev-pratap-singh-rajput-270b01271/
-- Portfolio: Add your portfolio link here
+
 
 ---
 
